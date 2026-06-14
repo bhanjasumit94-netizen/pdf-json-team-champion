@@ -1,0 +1,6 @@
+{
+  "name": "Lifter Sheet to JSON Converter",
+  "description": "Upload tournament sheets, PDFs, images, or copy-pasted lists to instantly convert them into clean, structured powerlifting competitor JSON data conforming to IPF categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
